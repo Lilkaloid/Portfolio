@@ -6,7 +6,7 @@ Status: [ORPHAN] page exists, not linked from any nav or page found
 24 images, no captions.
 
 ## Flags
-- [ORPHAN] Decide: keep (and link from Art), or drop.
+- DECIDED: keep, as a secondary item. [CHECK] exact placement (e.g. small link under Art & Animations).
 - [MISSING-TEXT] No dates, captions, or framing beyond one line.
 
 ## Visuals (24, in page order) — status: PENDING DOWNLOAD

@@ -5,7 +5,8 @@ Collected 2026-10-27 from the live site. Text is copied as-is (typos kept, flagg
 ## Layout
 - `pages/` — one file per page: text, links, videos, flags, and the list of images in page order.
 - `images-manifest.csv` — every image reference: page, order, local filename, original filename, source URL. 160 references, 135 unique files.
-- `assets/` — image files. **Status: PENDING DOWNLOAD** (see below).
+- `VISUALS-NEEDED.md` — what visuals exist, what is missing, per page.
+- `assets/` — image files. **Status: you will supply them later.**
 
 ## Labels
 | Label | Meaning |
@@ -57,8 +58,7 @@ Collected 2026-10-27 from the live site. Text is copied as-is (typos kept, flagg
 - [CHECK] Artistic statement lives in Figma Make — keep as external link or rebuild on the site?
 - Design reference from current site: fonts Young Serif + Bitter; dark hero, serif headings; nav = Games / Art & Animations / 中文主页.
 
-## Images: how they get here
-The Squarespace image CDN is blocked from Claude's workspace. Two options:
-1. You allow `images.squarespace-cdn.com` in claude.ai Settings → Capabilities (network allowlist); I then download all 135 directly.
-2. I package them in your browser pane into one zip (~170 MB, WebP) that downloads to your computer; you attach it or connect the folder.
-Better still for quality: your original source files, if you have them.
+## Decisions (2026-10-27)
+- Visuals: Yanran supplies files later; tracked in `VISUALS-NEEDED.md`.
+- Research & Writing section: not on the new site for now. Squarespace demo posts are not migrated.
+- 90 Day Project: kept, as a secondary item (not in main nav). Exact placement: [CHECK].

@@ -10,4 +10,4 @@
 | /cart | Squarespace commerce stub | [NOT NEEDED] |
 
 ## Open question
-- [CHECK] /research-n-writing suggests you intended a writing/research section. Do you want one on the new site? If yes, the content is missing entirely.
+- DECIDED: no Research & Writing section for now.
